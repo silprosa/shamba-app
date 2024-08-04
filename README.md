@@ -13,7 +13,7 @@ Shamba App is a comprehensive solution for managing irrigation systems, integrat
 ### Prerequisites
 
 - **Hardware**: Arduino Mega, GSM Module (SIM800), flow-rate meters, ball valves, etc.
-- **Software**: Arduino IDE, Android Studio, Firebase, Python for machine learning models.
+- **Software**: Arduino IDE, Android Studio, Firebase.
 
 ### Installation
 
